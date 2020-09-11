@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritom</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rittmang" alt="rittmang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rittmang&color=brightgreen" alt="rittmang" /> </p>
 
 - 🔭 I’m currently working on [GRE Word Bot](https://github.com/rittmang/GREWordBot)
 
