@@ -35,7 +35,7 @@
 <a href="https://fb.com/rittmang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rittmang" height="30" width="30" /></a>
 <a href="https://instagram.com/monsieur_rittman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="monsieur_rittman" height="30" width="30" /></a>
 <a href="https://medium.com/@ritomgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ritomgupta" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ritom gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ritom gupta" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/RitomGupta001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ritom gupta" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/rittmang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rittmang" height="30" width="30" /></a>
 <a href="https://www.geeksforgeeks.com/rittmang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rittmang" height="30" width="30" /></a>
 </p>
