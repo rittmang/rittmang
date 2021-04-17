@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittmang&color=brightgreen" alt="rittmang" /> </p>
 
-- 🔭 I’m currently working on [GRE Word Bot](https://github.com/rittmang/GREWordBot)
+- 🔭 I’m currently working on [My Movie Site](https://github.com/rittmang/ror-php)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://rightonrittman.in/resume](https://rightonrittman.in/resume)
+- 👨‍💻 My resume is available at [https://rightonrittman.in/resume](https://rightonrittman.in/resume)
 
-- 📝 I regulary write articles on [https://medium.com/@ritomgupta](https://medium.com/@ritomgupta)
+- 📝 I sometimes post memes on [Instagram](https://instagram.com/monsieur_rittman)
 
 - 💬 Ask me about **Full-stack, UI/UX, Music**
 
-- 📫 How to reach me **ritomgupta@rightonrittman.in**
+- 📫 How to reach me **ritomgupta@outlook.com**
 
 - ⚡ Fun fact **I like developer swag ❤**
   
@@ -36,6 +36,4 @@
 <a href="https://instagram.com/monsieur_rittman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="monsieur_rittman" height="30" width="30" /></a>
 <a href="https://medium.com/@ritomgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ritomgupta" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/RitomGupta001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ritom gupta" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/rittmang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rittmang" height="30" width="30" /></a>
-<a href="https://www.geeksforgeeks.com/rittmang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rittmang" height="30" width="30" /></a>
 </p>
