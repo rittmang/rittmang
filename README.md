@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full-stack, UI/UX, Music**
 
-- 📫 How to reach me **ritomgupta19999@gmail.com**
+- 📫 How to reach me **ritom@rightonrittman.in**
 
 - ⚡ Fun fact **I like developer swag ❤**
   
