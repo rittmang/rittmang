@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 My resume is available at [https://rightonrittman.in/resume](https://rightonrittman.in/resume)
+- 👨‍💻 My portfolio is available at [https://rightonrittman.in](https://rightonrittman.in)
 
-- 📝 I sometimes post memes on [Instagram](https://instagram.com/monsieur_rittman)
+- 📝 I sometimes post on [Twitter](https://twitter.com/rittmang)
 
-- 💬 Ask me about **Full-stack, UI/UX, Music**
+- 💬 Ask me about **Full Stack, Web Development, Music, Books**
 
 - 📫 How to reach me **ritom@rightonrittman.in**
 
