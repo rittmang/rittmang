@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 💥 A project I'm proud of is [Elevate by GrowthX](https://chrome.google.com/webstore/detail/elevate-by-growthx/gaaeokfljnaahnemphknpchoimmbmhjj)
+
 - 👨‍💻 My portfolio is available at [https://rightonrittman.in](https://rightonrittman.in)
 
 - 📝 I sometimes post on [Twitter](https://twitter.com/rittmang)
