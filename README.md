@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ritom</h1>
-<h3 align="center">An ethical full-stack developer from India</h3>
+<h3 align="center">An ethical full-stack developer studying at USC!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittmang&color=brightgreen" alt="rittmang" /> </p>
 
 - 🔭 I’m currently working on [My Movie Site](https://github.com/rittmang/ror-php)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 My portfolio is available at [https://rightonrittman.in](https://rightonrittman.in)
 
 - 📝 I sometimes post on [Twitter](https://twitter.com/rittmang)
 
-- 💬 Ask me about **Full Stack, Web Development, Music, Books**
+- 💬 Ask me about **Full Stack Engineering, Web Development, Cloud, Music, Books**
 
 - 📫 How to reach me **ritom@rightonrittman.in**
 
