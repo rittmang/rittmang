@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [My Movie Site](https://github.com/rittmang/ror-php)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 💥 A project I'm proud of is [Elevate by GrowthX](https://chrome.google.com/webstore/detail/elevate-by-growthx/gaaeokfljnaahnemphknpchoimmbmhjj)
 
-- 👨‍💻 My portfolio is available at [https://rightonrittman.in](https://rightonrittman.in)
+- 👨‍💻 My portfolio is available at [https://rightonrittman.in](https://go.rightonrittman.in/github-aboutme-readme)
 
 - 📝 I sometimes post on [Twitter](https://twitter.com/rittmang)
 
