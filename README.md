@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittmang&color=brightgreen" alt="rittmang" /> </p>
 
-- 🔭 I’m currently working on [My Movie Site](https://github.com/rittmang/ror-php)
+- 🔭 I’m currently working on [Leeenk.xyz](https://leeenk.xyz)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 My portfolio is available at [https://rightonrittman.in](https://go.rightonrittman.in/github-aboutme-readme)
 
-- 📝 I sometimes post on [Twitter](https://twitter.com/rittmang)
+- 📝 I sometimes post on [Twitter](https://go.rightonrittman.in/twitter)
 
 - 💬 Ask me about **Full Stack Engineering, Web Development, Cloud, Music, Books**
 
